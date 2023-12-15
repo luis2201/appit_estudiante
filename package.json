@@ -1,0 +1,11 @@
+{
+  "name": "appit_estudiante",
+  "version": "1.0.0",
+  "description": "API del módulo del estudiante del aplicativo APPIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. Luis Pincay Toala",
+  "license": "ISC"
+}
